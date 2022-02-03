@@ -1962,4 +1962,4 @@ request = http_request or request or HttpPost or syn.request
 local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
 notify('Demonic Has Loaded with '..executorcheck..'\nhttps://https://discord.gg/D634A54umW')
-notify('Demonic Is made by\nNuts#0710\nDemonic#6077')
+notify('Demonic Is made by\nNuts#0710\nvh#1111')
